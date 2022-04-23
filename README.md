@@ -6,3 +6,12 @@ This is my first attempt at the first module challenge of the UofU Coding Bootca
 I've fixed a broken link or two, filled in missing quotes, consolidated selectors in the stylesheet, and added some comments to explain some of the code and my changes to it.
 
 Also, a snafu (one I caused) in my git repository has made it necessary for me to restart the whole project in a new repo. I lost many of my commit messages.
+
+Link:
+
+[main index](https://leftyloosey.github.io/uchallenge1/Develop/index.html)
+
+
+Screenshot:
+
+![hero](https://leftyloosey.github.io/uchallenge1/shot1.png)
