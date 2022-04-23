@@ -10,7 +10,6 @@ Also, a snafu (one I caused) in my git repository has made it necessary for me t
 ### Links:
 
 [deployed main index](https://leftyloosey.github.io/uchallenge1/Develop/index.html)
-
 <br>
 
 [github repository](https://github.com/leftyloosey/uchallenge1)
