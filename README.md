@@ -7,11 +7,13 @@ I've fixed a broken link or two, filled in missing quotes, consolidated selector
 
 Also, a snafu (one I caused) in my git repository has made it necessary for me to restart the whole project in a new repo. I lost many of my commit messages.
 
-Link:
+###Links:
 
-[main index](https://leftyloosey.github.io/uchallenge1/Develop/index.html)
+[deployed main index| ](https://leftyloosey.github.io/uchallenge1/Develop/index.html)
+[github repository| ](https://github.com/leftyloosey/uchallenge1)
 
 
-Screenshot:
+###Screenshots:
 
 ![hero](https://leftyloosey.github.io/uchallenge1/shot1.png)
+![hero](https://leftyloosey.github.io/uchallenge1/shot2.png)
