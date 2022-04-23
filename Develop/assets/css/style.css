@@ -52,16 +52,7 @@
         display: inline-block;
         margin-left: 25px;
     }
-    
-    a {
-        color: #ffffff;
-        text-decoration: none;
-    }
-    
-    p {
-        font-size: 16px;
-    }
-    
+
     .hero {
         height: 800px;
         width: 100%;
@@ -69,16 +60,6 @@
         background-image: url("../images/digital-marketing-meeting.jpg");
         background-size: cover;
         background-position: center;
-    }
-    
-    .float-left {
-        float: left;
-        margin-right: 25px;
-    }
-    
-    .float-right {
-        float: right;
-        margin-left: 25px;
     }
     
     .content {
@@ -115,7 +96,10 @@
         max-width: 150px;
     }
     
-    .search-engine-optimization {
+    /* consolidated the three different classes of the main body <section> into
+    one class */ 
+
+    .content-param {
         margin-bottom: 20px;
         padding: 50px;
         height: 300px;
@@ -123,48 +107,14 @@
         background-color: #0072bb;
         color: #ffffff;
     }
-    
-    .online-reputation-management {
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 300px;
-        font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
-        color: #ffffff;
-    }
-    
-    .social-media-marketing {
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 300px;
-        font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
-        color: #ffffff;
-    }
-    
-    .search-engine-optimization img {
+    /* consolidatded the img descendants of .content-param into one */
+    .content-param img {
         max-height: 200px;
     }
-    
-    .online-reputation-management img {
-        max-height: 200px;
-    }
-    
-    .social-media-marketing img {
-        max-height: 200px;
-    }
-    
-    .search-engine-optimization h2 {
-        margin-bottom: 20px;
-        font-size: 36px;
-    }
-    
-    .online-reputation-management h2 {
-        margin-bottom: 20px;
-        font-size: 36px;
-    }
-    
-    .social-media-marketing h2 {
+
+    /* did the same for h2 descendants of .content-param */
+
+    .content-param h2 {
         margin-bottom: 20px;
         font-size: 36px;
     }
@@ -179,3 +129,27 @@
     .footer h2 {
         font-size: 20px;
     }
+
+    /*moved some of the classes purely for formatting and not attached to any
+    section into a separate area at the end of the stylesheet. just to clean it
+    up a bit */
+
+    .float-left {
+        float: left;
+        margin-right: 25px;
+    }
+    
+    .float-right {
+        float: right;
+        margin-left: 25px;
+    }
+    
+    a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+    p {
+        font-size: 16px;
+    }
+    
