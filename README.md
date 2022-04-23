@@ -10,11 +10,13 @@ Also, a snafu (one I caused) in my git repository has made it necessary for me t
 ### Links:
 
 [deployed main index](https://leftyloosey.github.io/uchallenge1/Develop/index.html)
+
 <br>
+
 [github repository](https://github.com/leftyloosey/uchallenge1)
 
 
 ### Screenshots:
 
 ![hero](https://leftyloosey.github.io/uchallenge1/shot1.png)
-![hero](https://leftyloosey.github.io/uchallenge1/shot2.png)
+![hero2](https://leftyloosey.github.io/uchallenge1/shot2.png)
